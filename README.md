@@ -58,13 +58,4 @@ We welcome contributions! Feel free to:
 - Create a new branch 🚀
 - Submit a pull request 🔄
 
-## 📫 Contact
-
-If you have any questions, feel free to reach out:
-- **Email**: yourname@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
-
-Enjoy exploring and cleaning data! 🌟 Happy Coding! 👨‍💻👩‍💻
 

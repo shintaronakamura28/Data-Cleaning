@@ -1,3 +1,5 @@
+![hero](images/insurance1.jpg)
+
 # 🧼 Insurance Data Cleaning Project 🚗💼
 
 Welcome to the **Insurance Data Cleaning Project**! This project is all about transforming messy insurance data into something clean, useful, and insightful. Let's dive in! 🏊‍♂️

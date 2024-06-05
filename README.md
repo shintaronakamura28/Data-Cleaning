@@ -6,25 +6,12 @@ Welcome to the **Insurance Data Cleaning Project**! This project is all about tr
 
 ## 📋 Project Overview
 
-In this project, we:
+In this project, I:
 - **Load** data 🗂️
 - **Clean** data 🧽
 - **Explore** data 🔍
 - **Visualize** data 📊
 - **Analyze** data with machine learning 🤖
-
-## 🔧 How to Use
-
-1. **Clone this repo**:
-    ```bash
-    git clone https://github.com/yourusername/insurance-data-cleaning.git
-    cd insurance-data-cleaning
-    ```
-
-2. **Run the Jupyter Notebook**:
-    ```bash
-    jupyter notebook Insurance\ Data\ Cleaning.ipynb
-    ```
 
 ## 🛠️ Tools Used
 
@@ -45,7 +32,7 @@ In this project, we:
 
 Here's a sneak peek at one of our awesome visualizations:
 
-![Correlation Matrix](image.png)
+![Correlation Matrix](correlation.png)
 
 ## 💡 Insights
 
@@ -53,11 +40,6 @@ Here's a sneak peek at one of our awesome visualizations:
 - **Premiums Written**: The amount of premiums written by each company in millions.
 - **Complaint Ratios**: The ratio of upheld, questioned, and not upheld complaints.
 
-## 📝 How to Contribute
 
-We welcome contributions! Feel free to:
-- Fork this repo 🍴
-- Create a new branch 🚀
-- Submit a pull request 🔄
 
 

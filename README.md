@@ -32,7 +32,7 @@ In this project, I:
 
 Here's a sneak peek at one of our awesome visualizations:
 
-![Correlation Matrix](correlation.png)
+![Correlation Matrix](images/correlation.png)
 
 ## 💡 Insights
 

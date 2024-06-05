@@ -30,7 +30,7 @@ In this project, I:
 
 ## 📊 Example Visualization
 
-Here's a sneak peek at one of our awesome visualizations:
+Here's a sneak peek at one of the visualizations:
 
 ![Correlation Matrix](images/correlation.png)
 

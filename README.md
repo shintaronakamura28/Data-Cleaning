@@ -36,9 +36,10 @@ Here's a sneak peek at one of the visualizations:
 
 ## 💡 Insights
 
-- **Total Complaints**: How many complaints each insurance company has received.
-- **Premiums Written**: The amount of premiums written by each company in millions.
-- **Complaint Ratios**: The ratio of upheld, questioned, and not upheld complaints.
+- The majority of complaints are Not Upheld Complaints, indicating that many complaints are either resolved or found to be without merit.
+- Question of Fact Complaints are significant in number, highlighting the complexity of some disputes in the automobile insurance sector.
+- The relatively lower number of Upheld Complaints suggests that most complaints do not result in a finding against the insurance companies.
+
 
 
 

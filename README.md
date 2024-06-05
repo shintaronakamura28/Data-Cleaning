@@ -2,7 +2,7 @@
 
 # 🧼 Insurance Data Cleaning Project 🚗💼
 
-Welcome to the **Insurance Data Cleaning Project**! This project is all about transforming messy insurance data into something clean, useful, and insightful. Let's dive in! 🏊‍♂️
+Welcome to the **Insurance Data Cleaning Project**! In this project, I conducted a comprehensive data cleaning and exploratory data analysis on a dataset provided by the New York State Department of Financial Services (DFS). The dataset includes information on consumer complaints against automobile insurance companies, focusing on the complaint ratios and the total number of upheld complaints over a two-year period.
 
 ## 📋 Project Overview
 
